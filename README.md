@@ -3,7 +3,14 @@
 
 A simple and elegant Todo app built with **React Native** and **Expo**, utilizing **AsyncStorage** for persistent local storage. Users can add and delete tasks with a user-friendly and responsive UI.
 
+![shot1](https://github.com/user-attachments/assets/e3ec5075-d22a-47a4-a1a6-2af49322f61f)
+
+![shot2](https://github.com/user-attachments/assets/7d501351-d5b3-4349-a0e5-7bc6c3e3bfc0)
+
+
+
 ---
+
 
 ##  Features
 
