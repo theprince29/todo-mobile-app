@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+#  Todo App
 
-## Get started
+A simple and elegant Todo app built with **React Native** and **Expo**, utilizing **AsyncStorage** for persistent local storage. Users can add and delete tasks with a user-friendly and responsive UI.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+##  Features
 
-2. Start the app
+*  Add new tasks
+*  Delete existing tasks with confirmation
+*  Persist tasks using `AsyncStorage`
+*  Empty state messaging
+*  Clean and responsive UI
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+##  Download the App
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Try it on your mobile device using Expo:**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+[![Download on Expo](https://img.shields.io/badge/Download%20App-Expo-blueviolet?logo=expo\&logoColor=white\&style=for-the-badge)](https://expo.dev/accounts/theprince29/projects/todo-app/builds/c339111d-ab0b-43db-9afb-764092f3de3f)
 
-## Get a fresh project
 
-When you're ready, run:
+
+##  Getting Started
+
+### 1. Clone the repo
 
 ```bash
-npm run reset-project
+git clone https://github.com/theprince29/todo-app.git
+cd todo-app
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Install dependencies
 
-## Learn more
+```bash
+npm install
+# or
+yarn install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3. Run the app
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+##  Technologies Used
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+* **React Native**
+* **Expo**
+* **TypeScript**
+* **AsyncStorage**
+* **FlatList**
+* **React Native StyleSheet**
+
+
+
+##  Author
+
+**Prince Pal**
+[Github](https://github.com/theprince29)
+
+**Email**
+[Email](princepalknp0402@gmail.com)
+
+
